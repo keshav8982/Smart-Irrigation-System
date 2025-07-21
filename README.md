@@ -85,7 +85,7 @@ This project demonstrates how embedded systems and IoT can solve real-world agri
 **Project by:** Keshav Vishwakarma  
 **Branch:** Electronics and Communication Engineering (ECE)  
 **LinkedIn:** [https://linkedin.com/in/keshavvishwakarma](https://linkedin.com/in/keshavvishwakarma)  
-**GitHub:** [https://github.com/keshav8982]((https://github.com/keshav8982))
+**GitHub:** [https://github.com/keshav8982](https://github.com/keshav8982)
 
 ---
 
